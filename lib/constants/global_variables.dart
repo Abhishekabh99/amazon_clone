@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-String uri = 'http://<yourip>:3000';
+// String uri = '<yourIPaddress>'; Uncomment this to run @2:17:08 time
 
 class GlobalVariables {
   // COLORS
